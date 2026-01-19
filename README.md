@@ -5,12 +5,14 @@ This repository documents my **hands-on DevOps learning journey** through Linux,
 ---
 
 ## 🔧 Tech Stack & Tools
-- Linux (Ubuntu)
+- Linux (Kali)
 - Git & GitHub
 - Shell Scripting (Bash)
 - Docker & Docker Compose
 - CI/CD (GitHub Actions)
 - Cloud Fundamentals (AWS)
+- Kubernetes
+- Terraform
 
 ---
 
